@@ -5,6 +5,7 @@ Simple blinking the LED
 x1 Breadboard  
 x1 Arduino Mega (China Model)  
 x1 USB-B Cable  
+A lot of WIRE (how to connect without them?)
 
 x1 330 Ohm Resistor  
 x3 LED (Any color)
