@@ -1,4 +1,5 @@
 # Arduino - LED Blink
+Simple blinking the LED
 
 ## Components used :
 x1 Breadboard  
